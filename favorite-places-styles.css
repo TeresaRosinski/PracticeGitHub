@@ -1,8 +1,28 @@
 li{
   font-style: bold; 
   font-family: "Comic Sans MS";
+  text-align: center;
 }
 
 img {
   border-radius: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding: 10px; 
 }
+
+p{
+  text-align: center;
+  font-size:25px;
+}
+ h1 {
+   text-align: center; 
+   font-size: 35px;
+ }
+
+ h2 {
+   text-align: center;
+   font-size: 30 px;
+ }
