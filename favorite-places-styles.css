@@ -2,3 +2,7 @@ li{
   font-style: bold; 
   font-family: "Comic Sans MS";
 }
+
+img {
+  border-radius: 5px;
+}
